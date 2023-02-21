@@ -68,7 +68,7 @@ public class MysqlDemo {
                 if(conn != null){
                     conn.close();
                 }
-                System.out.println("数据库关闭666");
+                System.out.println("数据库关闭777");
             } catch (SQLException e) {
                 e.printStackTrace();
             }
